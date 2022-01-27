@@ -110,6 +110,12 @@ AI applications. All Jetson modules and developer kits are supported by JetPack 
 
 • In our model we have used JetPack version 4.6 which is the latest production release and
 supports all Jetson modules.
+## Jetson-Nano-2gb
+
+
+![IMG_20220125_115056](https://user-images.githubusercontent.com/84638162/151313449-5e219c5a-f14c-423d-b456-b0363c3f9650.jpg)
+
+
 ## Proposed System
 
 1. Study basics of machine learning and image recognition.
